@@ -18,7 +18,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.21.0",
     "jsdom": "^16.7.0",
-    "mocha": "^10.2.0",
+    "mocha": "^10.8.2",
     "nodemon": "^2.0.4"
   },
   "license": "MIT"
